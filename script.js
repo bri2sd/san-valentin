@@ -101,7 +101,7 @@ document.getElementById('siBtn').addEventListener('click', function() {
 
     // Mostrar el mensaje específico
     document.getElementById('messageContainer').style.display = 'block';
-    document.getElementById('messageContainer').innerHTML = '¡Oh Sí! Sabía que ibas a decir que sí <br> Te quiero mucho <3';
+    document.getElementById('messageContainer').innerHTML = '¡Oh Sí! Sabía que ibas a decir que sí <br> Te Amo Mucho <3';
 
 
     // Mostrar otro gif después de 3 segundos
